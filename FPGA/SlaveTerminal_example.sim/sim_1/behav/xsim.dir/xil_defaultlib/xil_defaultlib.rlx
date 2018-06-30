@@ -1,0 +1,12 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.sim/sim_1/behav/glbl.v,1485222234,verilog,,,,glbl,,,,,,,,
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.srcs/sources_1/new/ADS8866.v,1499613170,verilog,,,,AlwaysReadADS8865,,,,,,,,
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.srcs/sources_1/new/DAC8811.v,1499613352,verilog,,,,AlwaysWriteDAC8811,,,,,,,,
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.srcs/sources_1/new/Si5351_Init.v,1499399424,verilog,,,,Si5351_Init,,,,,,,,
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.srcs/sources_1/new/SpiMaster.v,1499390295,verilog,,,,my_spi_module,,,,,,,,
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.srcs/sources_1/new/dds2DA.v,1499612367,verilog,,,,dds2DA,,,,,,,,
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.srcs/sources_1/new/spi_slave.v,1495417548,verilog,,,,my_spi_slave,,,,,,,,
+D:/Projects/VivadoProject/XC7A35TFTG256_1/summer2017/week1_test/SlaveTerminal_example.srcs/sources_1/new/top.v,1499614752,verilog,,,,top,,,,,,,,

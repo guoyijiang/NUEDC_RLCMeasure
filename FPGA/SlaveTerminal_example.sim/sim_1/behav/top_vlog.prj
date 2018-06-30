@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../SlaveTerminal_example.srcs/sources_1/new/SpiMaster.v"
+verilog xil_defaultlib  "../../../SlaveTerminal_example.srcs/sources_1/new/ADS8866.v"
+verilog xil_defaultlib  "../../../SlaveTerminal_example.srcs/sources_1/new/DAC8811.v"
+verilog xil_defaultlib  "../../../SlaveTerminal_example.srcs/sources_1/new/spi_slave.v"
+verilog xil_defaultlib  "../../../SlaveTerminal_example.srcs/sources_1/new/Si5351_Init.v"
+verilog xil_defaultlib  "../../../SlaveTerminal_example.srcs/sources_1/new/dds2DA.v"
+verilog xil_defaultlib  "../../../SlaveTerminal_example.srcs/sources_1/new/top.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

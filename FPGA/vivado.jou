@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri Jul 28 20:24:23 2017
+# Process ID: 19520
+# Current directory: D:/Projects/summer2017/WEEK1/week1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22192 D:\Projects\summer2017\WEEK1\week1\SlaveTerminal_example.xpr
+# Log file: D:/Projects/summer2017/WEEK1/week1/vivado.log
+# Journal file: D:/Projects/summer2017/WEEK1/week1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Projects/summer2017/WEEK1/week1/SlaveTerminal_example.xpr
